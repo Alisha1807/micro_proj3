@@ -1,0 +1,81 @@
+body {
+  background: rgba(59, 70, 100, 1);
+}
+.container {
+  text-align: center;
+  margin-top: 23px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 21px;
+  font-size: 34px;
+  height: 65px;
+  width: 536px;
+}
+
+button {
+  /* font-size: 40px; */
+  background: rgba(234, 227, 219, 1);
+  width: 100px;
+  height: 60px;
+  border-radius: 12px;
+  margin: 6px;
+  font-family: "Inter";
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(59, 70, 100, 1);
+}
+
+.calculator {
+  background: rgba(37, 45, 68, 1);
+  padding: 23px;
+  display: inline-block;
+  width: 536px;
+  height: 400px;
+  border-radius: 12px;
+}
+
+.display input {
+  margin: auto;
+  width: 582px;
+  height: 142.73px;
+  border-radius: 12px;
+  background: rgba(24, 31, 50, 1);
+  border-color: rgba(24, 31, 50, 1);
+}
+
+h1 {
+  font-size: 28px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#xyz {
+  width: 200px;
+  background: rgba(100, 114, 153, 1);
+  color: white;
+}
+#xyz1 {
+  background: rgba(100, 114, 153, 1);
+  color: white;
+}
+#uvw {
+  width: 200px;
+  background: red;
+}
+
+.dis_input {
+  font-family: "Segoe UI";
+  font-size: 55px;
+  font-weight: 900;
+  line-height: 74px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+}
